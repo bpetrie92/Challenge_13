@@ -15,4 +15,4 @@ The steps for this challenge are broken out into the following sections:
 * Optimize the neural network model.
 
 ## Test Results
-The
+The original, alternative 1 and 2 all yielded between a 72.8-73.1% accuracy rating.  Alternative1 model, I switched up the column being targeted, two additional layers were added and the tahn activation function was called, this did optimize the results.  Alternative 3, another column was targeted and the number of epoches doubled, again this did not impact the results.
